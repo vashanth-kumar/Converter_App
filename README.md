@@ -4,5 +4,5 @@ PyConverterGUI is an easy-to-use Python GUI library that simplifies converter ap
 
 <b>Features:</b> Rich widget collection, seamless conversion logic integration, cross-platform support, responsive design, event-driven programming, customizable themes, and comprehensive documentation.<br>
 
-Getting Started: Install via pip: pip install pyconvertergui. Use in your Python code to create converter apps. Check documentation for guidance.
+<b>Getting Started:</b> Install via pip: pip install pyconvertergui. Use in your Python code to create converter apps. Check documentation for guidance.
 </p>
